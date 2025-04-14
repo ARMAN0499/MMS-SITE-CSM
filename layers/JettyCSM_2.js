@@ -1,0 +1,1 @@
+var json_JettyCSM_2 = {"type":"FeatureCollection","name":"JettyCSM_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Dok.":"D:\\MINERAL MAJU SEJAHTERA\\jetty CSM.JPG"},"geometry":{"type":"Point","coordinates":[120.945288748761371,-3.614746649467297]}}]}
